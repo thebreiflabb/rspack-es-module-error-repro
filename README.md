@@ -1,0 +1,1 @@
+# rspack-es-module-error-repro
