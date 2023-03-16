@@ -1,0 +1,13 @@
+{
+  "name": "rspack-es-module-error-repro",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "rspack build",
+    "test": "node test/test-bundle.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@rspack/cli": "0.1.1",
+    "webpack": "5.76.2"
+  }
+}
